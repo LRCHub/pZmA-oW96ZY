@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "条司",
+  "base_artist": "jo0ji",
+  "createdAt": "2025-12-20T11:32:31.492135Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "条司",
+      "artist": "jo0ji",
+      "has_synced": false,
+      "path": "select/pl_01_条司_jo0ji.txt"
+    }
+  ]
+}
